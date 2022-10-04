@@ -1,2 +1,2 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<Info Type="StartUp" Visible="0" Icon="" File="allData.mat" Name="allData"/>
+<Info Type="StartUp" Visible="0" Icon="" File="data/allData.mat" Name="allData"/>
